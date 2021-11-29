@@ -220,3 +220,13 @@ section {
 .contact-info a {
     color: #fce138;
 }
+.hero-cta {
+    display: inline-block;
+    text-align: right;
+    color: white;
+}
+.hero-cta h2 {
+    color: yellow;
+    text-align: center;
+    font-style: italic;
+}
